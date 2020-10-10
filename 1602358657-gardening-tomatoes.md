@@ -12,6 +12,11 @@ Should be staked to reduce the plant from touching the ground, this can cause is
 - [Determinate](1602358961-gardening-tomatoes-determinate.md)
 - [Indeterminate](1602359149-gardening-tomatoes-indeterminate.md)
 
+## Pruning
+Should start as planting time as you remove all lower stems that will come in contact with the soil.
+Remove any drooping li,bs that are close to the soil.
+I prefer using scissors as they can easily remove branchs without twisting or pulling.
+Remove to allow more sunlight or air.
 
 ## Links
 - [1602358961-gardening-tomatoes-determinate.md](1602358961-gardening-tomatoes-determinate.md)
