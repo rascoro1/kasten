@@ -22,3 +22,4 @@ Remove to allow more sunlight or air.
 - [1602358961-gardening-tomatoes-determinate.md](1602358961-gardening-tomatoes-determinate.md)
 - [1602359149-gardening-tomatoes-indeterminate.md](1602359149-gardening-tomatoes-indeterminate.md)
 - [1602358210-plants-night-shade.md](1602358210-plants-night-shade.md)
+- [1602359413-gardening-staking.md](1602359413-gardening-staking.md)
