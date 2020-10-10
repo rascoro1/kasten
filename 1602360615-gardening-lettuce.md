@@ -13,3 +13,4 @@ Weed frequently as lettuce cannot compete with weed roots.
 
 
 ## Links
+- [1602359948-gardening-beans.md](1602359948-gardening-beans.md)

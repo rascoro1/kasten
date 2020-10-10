@@ -14,3 +14,4 @@ It is good to plant lettuce or other leafy crop following the bean plant because
 Do not get leaves wet.
 
 ## Links
+- [1602360615-gardening-lettuce.md](1602360615-gardening-lettuce.md)
