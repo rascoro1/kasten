@@ -16,3 +16,4 @@ Should be staked to reduce the plant from touching the ground, this can cause is
 ## Links
 - [1602358961-gardening-tomatoes-determinate.md](1602358961-gardening-tomatoes-determinate.md)
 - [1602359149-gardening-tomatoes-indeterminate.md](1602359149-gardening-tomatoes-indeterminate.md)
+- [1602358210-plants-night-shade.md](1602358210-plants-night-shade.md)
