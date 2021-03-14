@@ -1,2 +1,0 @@
-# kasten
-The zettelkasten
